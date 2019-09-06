@@ -1,0 +1,35 @@
+Report for Institution Code VESS, Resource vess_vanuatu_bats
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 74
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Thailand ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Notopteris macdonaldi haslength:1" ; Times: 2
+	Query: "Pteropus fundatus haslength:1" ; Times: 2
+	Query: "Pteropus tonganus haslength:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1034 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
